@@ -256,7 +256,7 @@ Using StAX parser, we can parse, modify and create a XML document.
 ## 15. What New Features Were Added in Java 8?
 
 Java 8 ships with several new features, but the most significant are the following:
-
+https://www.javamadesoeasy.com/2017/05/java-8-tutorial-with-example-and.html
 + Lambda Expressions − a new language feature allowing us to treat actions as objects
 + Method References − enable us to define Lambda Expressions by referring to methods directly using their names
 + Optional − special wrapper class used for expressing optionality
